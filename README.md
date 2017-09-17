@@ -7,6 +7,8 @@ Installation
 Install the dependencies and devDependencies and start the server.
 
 $ npm install;
+
+
 Run
 
 $ npm run start;
@@ -15,7 +17,8 @@ Then navigate to http://localhost:8090
 Build
 
 $ npm run build;
-built files are exported to 'dist' folder
+//built files are exported to 'dist' folder
+
 
 Demo
 
